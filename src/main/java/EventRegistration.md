@@ -962,4 +962,19 @@ public void destroy()
 
 # SCREEN SHOTS
 
-![MasterPage](http://link)
+ SCREEN SHOTS
+
+![MasterPage](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/MasterPage.png)
+![RegistrationPage](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/RegistrationPage.png)
+![RegistrationSuccessfulMsg](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/RegistrationSuccessFulMsg.png)
+![UserDetails](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/UserDetails.png)
+![LoginPage](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/LoginPage.png)
+![LoginSuccessFulMsg](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/LoginSuccessfulmsg.png)
+![ErorMsgPage](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/ErrorMsgPage.png)
+![UpdateuserPage](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/UpadateUserPage.png)
+![UpdateDetailsForm](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/UpadeDetailsForm.png)
+![ViewUpdateList](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/ViewUpdateList.png)
+![DeleteUserPage](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/DeleteUserPage.png)
+![AfterDelete](https://github.com/KoyelRana/tom/blob/master/src/main/webapp/images/AfterDelete.png)
+
+..........................................................................................
